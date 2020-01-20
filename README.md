@@ -23,7 +23,7 @@
 - 핫딜 상품 데이터  
 #### CI/CD
 
-## [프로토타입]()
+## [프로토타입](https://ovenapp.io/view/LAt0douDc5vAO0jdQXuMH9VnFPB9Kmmn/OxtPf)
 ![](prototype1.png)
 
 ![](prototype2.png)
